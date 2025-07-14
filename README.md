@@ -137,9 +137,11 @@ CLI Prompt : "Game Developement startups in india"
     "description": "Partner with one of India\u2019s leading game development companies to create engaging, cross-platform games with unique design and development solutions.",
     "address": "",
     "tech_stack": []
-  },
+  }
+
 
 📦 Output Details (Where & What Is Saved)
+
 The tool automatically stores scraped company data in two formats:
 
 Format	  File Name	          Location	                          Description
