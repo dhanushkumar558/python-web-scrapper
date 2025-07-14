@@ -109,7 +109,12 @@ Advanced	Tech stack detection via Wappalyzer, optional future NLP/API integratio
 
 CLI Prompt : "Game Developement startups in india"  
 
-  CLI :   python main.py --query "game development startups in india" 
+ ### 🔷 **To Run:**
+
+**```bash
+python main.py --query "game development startups in india"
+```**
+
 
 
 ```json
