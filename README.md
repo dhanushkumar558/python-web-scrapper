@@ -168,7 +168,7 @@ Output Serialization	json, csv
 bash
 Copy
 Edit
-git clone <your-repo-url>
+git clone https://github.com/dhanushkumar558/python-web-scrapper.git
 cd company_scraper
 🔸 Step 2: Create a Virtual Environment
 bash
@@ -202,7 +202,7 @@ python main.py --query "biotech startups in Europe"
 bash
 Copy
 Edit
-python main.py --urls https://example1.com https://example2.com
+python main.py --urls 
 Results will be saved in:
 
 output/results.json
@@ -257,13 +257,13 @@ Semantic matching (NLP)
 
 Web crawling beyond homepage
 
-Django or Streamlit-based frontend for this tool
+
 
 
 
 🧑 Author
 Dhanush Kumar V.
-MERN Stack Developer | Automation Enthusiast | Full Stack Problem Solver
+MERN Stack Developer | Automation Enthusiast | Full Stack Developer
 
 Crafted with 💻 and ☕ for real-world web intelligence extraction
 
