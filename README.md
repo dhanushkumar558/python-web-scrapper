@@ -117,7 +117,7 @@ python main.py --query "game development startups in india"
 
 ```
 
-
+### 🔷 Output : 
 
 ```json
 {
